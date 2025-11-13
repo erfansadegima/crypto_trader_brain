@@ -1,0 +1,13 @@
+{
+  "default_symbol": "BTC/USDT",
+  "default_timeframe": "1h",
+  "risk_per_trade": 0.01,
+  "max_leverage": 5,
+  "max_position_size": 0.2,
+  "take_profit_rr": 2.0,
+  "stop_loss_multiplier": 1.5,
+  "data_source": "binance",
+  "backtest_limit": 500,
+  "log_level": "INFO",
+  "warmup_candles": 50
+}

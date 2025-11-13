@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+tests/
+test_*.py
+scripts/
+data/
+PROPOSAL_FA.txt
+*.log
+/.git
