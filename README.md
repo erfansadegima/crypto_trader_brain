@@ -515,8 +515,8 @@ MIT License - [مطالعه بیشتر](LICENSE)
 
 ## 📞 تماس و پشتیبانی
 
-- 📧 Email: [ایمیل خود]
-- 💬 Telegram: [Telegram]
+- 📧 Email: [Erfansadegima@gmail.com]
+- 💬 Telegram: [http://a7000i.t.me]
 - 🐛 Issues: [GitHub Issues]
 
 ---
